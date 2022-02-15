@@ -1,0 +1,27 @@
+#game div {
+	border: 1px solid black;
+	width: 15%;
+	height: 200px;
+	margin: 10px;
+	display: inline-block;
+}
+
+.red.cardShow {
+	background-color: red;
+}
+
+.blue.cardShow {
+	background-color: blue;
+}
+
+.green.cardShow {
+	background-color: green;
+}
+
+.orange.cardShow {
+	background-color: orange;
+}
+
+.purple.cardShow {
+	background-color: purple;
+}
